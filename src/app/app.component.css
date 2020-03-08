@@ -1,0 +1,27 @@
+
+  .sidenav .mat-toolbar {
+    background: inherit;
+  }
+
+  
+  .mat-toolbar.mat-primary {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  table {
+    width: 90%;
+    margin: auto;
+  }
+
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+    background: initial;
+  }
+
+  .center{
+    text-align: center;
+    margin: auto;
+  }
+  
