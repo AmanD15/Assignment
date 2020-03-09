@@ -1,0 +1,35 @@
+
+.form{
+	margin: auto;
+	text-align: center;
+}
+
+table{
+	margin: auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 90%
+}
+
+th,td{
+	border: 1px solid black;
+	width: 30%
+}
+
+.status{
+	margin: auto;
+	text-align: center;
+}
+
+.Connection{
+	color: red;
+	font-weight: bold;
+}
+
+.Update{
+	color:green;
+}
+
+.Delete{
+	color: green;
+}
